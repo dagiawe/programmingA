@@ -19,7 +19,8 @@ int main()
 
 	displayVersion();
 
-cout<<"making changes for git"<<endl;
+
+cout<<"i am making change for part 3"<<endl;
 
     //String for each part of the URL as well as temporary  
     string Protocol, Domain, DomainPort, PortString, Filepath, Parameters, temp, zcheck, ckeckdomain, Filepathcheck;
